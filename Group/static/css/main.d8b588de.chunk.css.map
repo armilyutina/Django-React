@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Group.css"],"names":[],"mappings":"AAAA,OACI,YAAa,CACb,sBAAuB,CACvB,kBACJ","file":"main.d8b588de.chunk.css","sourcesContent":[".group {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}"]}
