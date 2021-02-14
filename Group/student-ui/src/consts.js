@@ -1,0 +1,8 @@
+export const FETCH_GROUP = "FETCH_GROUP"
+export const REMOVE_GROUP = "REMOVE_GROUP"
+export const ADD_GROUP = "ADD_GROUP"
+
+
+export const FETCH_STUDENTS = "FETCH_STUDENTS"
+export const REMOVE_STUDENT = "REMOVE_STUDENT"
+export const ADD_STUDENT = "ADD_STUDENT"
